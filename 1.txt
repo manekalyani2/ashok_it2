@@ -1,4 +1,4 @@
 hi all how r u 
 hope you are doing well 
 im updated from github remote branch 
-
+hi im from ashok it batch and my purpose is to show git fetch command usage
