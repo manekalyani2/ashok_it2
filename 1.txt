@@ -4,19 +4,5 @@ hope you are doing well
 im updated from github remote branch 
 hi im from ashok it batch and my purpose is to show git fetch command usage
 
-<<<<<<< Updated upstream
-=======
-=================================================================================
-log file update or writing some code 
-jdsajhfkbvm, z
-kdhfibakdv.zd,
-idyfuabfmndzlv
-jdyfsahcbkzxk
-kycfashbsc,zxv
-oaudihwkjqehruwhrgknfcxv
-vdisfqjbakfcndplsbvx
-akfuagvc,sdb
-xiadhfjsdbnvxc
-igjvbxnmv
 
-
+===
